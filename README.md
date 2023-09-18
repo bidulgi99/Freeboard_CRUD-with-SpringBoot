@@ -32,9 +32,9 @@ Spring Boot + Oracle DB를 활용한 작은 웹사이트 만들기(자유게시�
 ![자유게시판_글수정](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/8308bc6b-97ba-4a1c-891d-8582dfe59d68)
 ![자유게시판_글수정(수정후)](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/2aa889d1-84bb-447f-91d6-432f0e1a223d)
 
-![자유게시판_대댓글작성](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/95fdfb6f-6d63-4ca9-9a1c-eaaf7ae3d28a)
 ![자유게시판_댓글작성](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/d137e7e8-7fd8-49fb-a528-20a0a7595ec6)
 ![자유게시판_댓글_작성후](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/d0bd5d57-30e7-4220-8b89-fda8bdb687db)
+![자유게시판_대댓글작성](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/95fdfb6f-6d63-4ca9-9a1c-eaaf7ae3d28a)
 
 * 이외 좋아요, 신고 기능이며
 * 신고 버튼의 경우 해당 게시글의 번호, 게시판, 신고 사유 등이 관리자에게 전송됩니다
