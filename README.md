@@ -3,6 +3,8 @@ Spring Boot + Oracle DB를 활용한 작은 웹사이트 만들기(자유게시�
 
 자유게시판을 담당하였으며, 구현 소스와 템플릿은 freeboard 폴더 하에서 작업하였습니다.
 
+작업 보드 : https://www.notion.so/a10a90d32f3142aca480bd67dc12c30c?v=b6a7f5ea6f004e6aa27dbe74736cc8fd&pvs=4 (노션)
+
 
 ![관계도_대댓글과댓글](https://github.com/bidulgi99/Freeboard_CRUD-with-SpringBoot/assets/28780657/40e908ac-c284-4ec4-a874-247fd5a5b122)
 * 댓글과 대댓글의 관계도 및 테이블 구성입니다.
